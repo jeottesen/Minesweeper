@@ -1,0 +1,3 @@
+Initializing
+Loading Files
+Starting Game loop
